@@ -1,0 +1,13 @@
+.redBox {
+    width: 100px;
+    height: 100px;
+    background: red;
+    display: inline-block;
+}
+
+.blackBox {
+    width: 100px;
+    height: 100px;
+    background: black;
+    display: inline-block;
+}
